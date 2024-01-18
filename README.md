@@ -1,4 +1,7 @@
 # Credit-card-transactions
+
+
+SQL porfolio project. download credit card transactions dataset from below link : https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 CREATE TABLE credit_card_transcations
 (
     index integer,
